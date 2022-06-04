@@ -19,7 +19,7 @@ have more information regarding the motivation and design of the code this gener
 
 ## Usage
 
-### Generating a Phoenix 1.5 app
+### Generating a Phoenix 1.6 app
 
 `phx.gen.auth` must be installed into a Phoenix 1.5 application.
 
