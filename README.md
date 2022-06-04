@@ -1,13 +1,13 @@
 # Phx.Gen.Auth
 
-An authentication system generator for Phoenix 1.5 applications.
+An authentication system generator for Phoenix 1.6 applications.
 
 **Note: This project is no longer maintained as `mix phx.gen.auth` has been merged into Phoenix v1.6.**
 
 ## Overview
 
 The purpose of `phx.gen.auth` is to generate a pre-built authentication system into
-a Phoenix 1.5 application that follows both security and elixir best practices. By generating
+a Phoenix 1.6 application that follows both security and elixir best practices. By generating
 code into the user's application instead of using a library, the user has complete freedom
 to modify the authentication system so it works best with their app. The following links
 have more information regarding the motivation and design of the code this generates.
